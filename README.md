@@ -3,7 +3,7 @@
 ```
 Daan = {
     "languages": ["Dutch", "English"],
-    "Hobbies": ["Coding", "Gaming", "Watching Movies"],
+    "Hobbies": ["Coding", "Gaming", "Watching Movies", "Taking Over the world"],
     "Interests" ["UX Design", "Web Design", "Conspiracy Theories", "Marvel"]
 }
 
