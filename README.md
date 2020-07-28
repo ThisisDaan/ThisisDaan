@@ -2,8 +2,8 @@
 
 ```
 Daan = {
-"Level": "27",
-"languages": ["Dutch", "English"],
-"Hobbies": ["Coding", "Gaming", "Watching Movies"]
+    "Level": "27",
+    "languages": ["Dutch", "English"],
+    "Hobbies": ["Coding", "Gaming", "Watching Movies"],
 }
 ```
