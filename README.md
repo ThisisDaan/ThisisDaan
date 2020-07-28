@@ -4,6 +4,6 @@
 Daan = {
     "languages": ["Dutch", "English"],
     "Hobbies": ["Coding", "Gaming", "Watching Movies"],
-    "Interests" ["UX Design", "Web Design", "Conspiracy theories", "Marvel"],
+    "Interests" ["UX Design", "Web Design", "Conspiracy theories", "Marvel"]
 }
 ```
