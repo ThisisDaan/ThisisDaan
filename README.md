@@ -6,6 +6,7 @@ Daan = {
     "Hobbies": ["Coding", "Gaming", "Watching Movies"],
     "Interests" ["UX Design", "Web Design", "Conspiracy Theories", "Marvel"]
 }
+
 ```
 
 
