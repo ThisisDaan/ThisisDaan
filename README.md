@@ -9,5 +9,5 @@ Daan = {
 
 ```
 
-#### Everything should be made as simple as possible.
+#### Life is hard enough, let's keep the rest simple.
 
